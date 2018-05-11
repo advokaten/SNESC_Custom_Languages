@@ -1,19 +1,28 @@
 # SNESC_Custom_Languages
 
-## Custom language project by Advokaten
-  Contributors & translators:
+## Custom languages currently available:
+
+  Emoji
+
+  Finnish
   
-  Advokaten
+  Greek
   
-  ThanosRD
+  Indonesian
+
+  Norwegian
+
+  Swedish
+
+
+
+    Custom language project by Advokaten
+    Contributors & translators:
   
-## Currently available languages:
+  Advokaten - Emoji, Finnish, Swedish
+  
+  ThanosRD - Greek
+  
+  maande80 - Indonesian
+  
 
-
-Greek
-
-Norwegian
-
-Swedish
-
-Indonesian

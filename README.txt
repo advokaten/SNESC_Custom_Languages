@@ -1,6 +1,6 @@
-# SNESC_Custom_Languages
+S/NESC Custom Languages
 
-## Custom languages currently available:
+    Custom languages currently available:
 
   Emoji
 

@@ -1,4 +1,4 @@
-# SNESC_Custom_Languages1
+# SNESC_Custom_Languages
 
 ## Custom language project by Advokaten
   Contributors & translators:
@@ -8,3 +8,12 @@
   ThanosRD
   
 ## Currently available languages:
+
+
+Greek
+
+Norwegian
+
+Swedish
+
+Indonesian
